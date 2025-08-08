@@ -1,5 +1,6 @@
-# Привет! 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=nikr00ndev)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1&color=F7F7F7&center=true&width=1000&height=150&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%F0%9F%91%8B)](https://git.io/typing-svg) ![Profile View Counter](https://komarev.com/ghpvc/?username=nikr00ndev)
 >### Работаю в студии "xyzStudio"
+>https://discord.gg/NC7g7fbebe
 <!-- https://beacons.ai/nikr00n_dev -->
  
 # 😀 Немного обо мне:
