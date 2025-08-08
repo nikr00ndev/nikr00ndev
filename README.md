@@ -1,6 +1,5 @@
 # Привет! 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=nikr00ndev)
-<!-- # 📊 GitHub Статистика: -->
-### Computer science student, IT news writer from Russia 🇷🇺 
+### Работаю в студии "xyzStudio" ![xyzStudioSute](https://xyzStudio.com)
 
 # 😀 Немного обо мне:
 ## 💻 Пишу на:
