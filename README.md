@@ -1,6 +1,6 @@
 # Привет! 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=nikr00ndev)
 >### Работаю в студии "xyzStudio"
-
+<!-- https://beacons.ai/nikr00n_dev -->
  
 # 😀 Немного обо мне:
 😋 Люблю прогграмировать  
