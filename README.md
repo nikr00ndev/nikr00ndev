@@ -2,8 +2,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=nikr00ndev)
 
 ## 💻 Языки прогграмирования
-Языки прогграмирования которые я использую в своих проектах.
-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -22,6 +20,5 @@
 ## ⚙️ Также использую
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
-![DirectX](https://img.shields.io/badge/DirectX-white?logo=directx12&style=for-the-badge)
 ![Vulkan API](https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white&logoSize=auto)
 ![FireBase](https://img.shields.io/badge/-Firebase-bd7800?style=for-the-badge&logo=firebase&logoColor=F8C52C)
