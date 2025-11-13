@@ -30,5 +30,6 @@
 ## ❔ Также использую:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
+![GLSL](https://img.shields.io/badge/GLSL-white?logo=GLSL&style=for-the-badge)
 ![Vulkan API](https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white&logoSize=auto)
 ![FireBase](https://img.shields.io/badge/-Firebase-bd7800?style=for-the-badge&logo=firebase&logoColor=F8C52C)
